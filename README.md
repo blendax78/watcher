@@ -1,5 +1,5 @@
-basic_chrome_extension
+Watcher
 ======================
 
-Just a basic layout for a Google Chrome Extension
+A chrome extension that... wait for it... watches.
 

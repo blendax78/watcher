@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Basic Chrome Extension",
-  "description": "This extension demonstrates a browser action with kittens.",
-  "version": "1.0",
+  "name": "Watcher",
+  "description": "This extension will watch.",
+  "version": "0.1",
 
   "permissions": [
     "https://secure.flickr.com/"
